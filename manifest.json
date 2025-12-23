@@ -1,6 +1,6 @@
 {
 	"id": "nether-portal",
-	"name": "NetherPortal",
+	"name": "Nether Portal",
 	"version": "beta-0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Sincroniza automaticamente seu vault com um repositório GitHub ao abrir e ao salvar arquivos.",
