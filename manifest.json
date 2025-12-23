@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-github-sync",
-	"name": "GitHub Sync",
-	"version": "1.0.0",
+	"id": "nether-portal",
+	"name": "NetherPortal",
+	"version": "beta-0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Sincroniza automaticamente seu vault com um repositório GitHub ao abrir e ao salvar arquivos.",
 	"author": "NetherPortal",
-	"authorUrl": "https://github.com",
+	"authorUrl": "https://github.com/jvsajv",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": true
 }
