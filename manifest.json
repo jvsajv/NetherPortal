@@ -6,6 +6,5 @@
 	"description": "Sincroniza automaticamente seu vault com um repositório GitHub ao abrir e ao salvar arquivos.",
 	"author": "NetherPortal",
 	"authorUrl": "https://github.com/jvsajv",
-	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": true
 }
